@@ -1,0 +1,1 @@
+To approach the task first I learned about rospy.get_time() to vary acceleration with time. Then to send the message in the correct format I used the geometry_msgs library after knowing what to do, I created a Publisher publishing the imu data, and a subscriber receiving that data
